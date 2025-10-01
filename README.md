@@ -1,7 +1,7 @@
 # 👋 Salut, je m’appelle Khalid Salhi  
 
 💻 **Développeur Web & Mobile** passionné par la création de solutions digitales modernes et innovantes.  
-🎓 Actuellement en **Licence Génie Logiciel** à l’Université Ibn Zohr.  
+🎓 Titulaire d’une **Licence en Génie Logiciel** de l’Université Ibn Zohr.  
 
 ---
 
@@ -40,5 +40,6 @@ tout en apportant **rigueur, créativité et esprit d’équipe**.
 ---
 
 📫 **Me contacter :**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Khalid%20Salhi-blue?logo=linkedin)(https://www.linkedin.com/in/khalid-salhi-8a1500255)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Khalid%20Salhi-blue?logo=linkedin)](https://www.linkedin.com/in/khalid-salhi-8a1500255)  
 [![GitHub](https://img.shields.io/badge/GitHub-khalidsl-black?logo=github)](https://github.com/khalidsl)  
+
