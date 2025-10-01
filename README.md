@@ -40,5 +40,5 @@ tout en apportant **rigueur, créativité et esprit d’équipe**.
 ---
 
 📫 **Me contacter :**  
-[![LinkedIn](https://www.linkedin.com/in/khalid-salhi-8a1500255)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Khalid%20Salhi-blue?logo=linkedin)(https://www.linkedin.com/in/khalid-salhi-8a1500255)  
 [![GitHub](https://img.shields.io/badge/GitHub-khalidsl-black?logo=github)](https://github.com/khalidsl)  
